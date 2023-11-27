@@ -1,0 +1,3 @@
+INSERT INTO Employee
+SELECT*
+FROM EmployeeOLD
